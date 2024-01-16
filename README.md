@@ -1,0 +1,1 @@
+This project is an event driven microservice built with mongo database express and node. The services communicate with each other using RabbitMQ. It accepts payment from the user's using the stripe payment gateway and credits their wallet with funds which will be used for making cable subscriptions
